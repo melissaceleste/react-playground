@@ -1,0 +1,9 @@
+.Card {
+  text-align: center;
+  margin: 20px;
+  border: 1px solid;
+}
+
+.input {
+  width: 250px;
+}
